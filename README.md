@@ -23,13 +23,13 @@
 Прикрепить ссылку на гитхаб проекта с данными изменениями.
 
 ---
-Screenshot git log from IDEA
-
-![img.png](https://downloader.disk.yandex.ru/preview/b0a8b7e028f128d77443ef150ce217b845283a35fcc69f47d8517d0ec88e79ff/616aeb4d/4rPQXtpKeYxfTIi8kacD3y6k_Eb-e6V24vNmeJezr09djxhCt_f2AALhtrYFoMQVFD4XHN-b3KilFPLzt8AlyQ%3D%3D?uid=0&filename=2021-10-16_14-05-15.png&disposition=inline&hash=&limit=0&content_type=image%2Fpng&owner_uid=0&tknv=v2&size=1920x947)
-
----
 
 Прикрепить ссылку на гитхаб проекта с данными изменениями.    
 ![Скрин git log](https://downloader.disk.yandex.ru/preview/c6d40b6ce94e3e5aa4e08e51a1cd5ebfe4d4d2d6a7d9ca956b153cd97d44cc9a/616ae8b8/pDxo72-zxa9rUEd-hyUgI9o2NQG88iZ97hsPz4AhliYqhOXafz7i9UgW0eVBuAMrz2thO7i-nVm558RPstN43A%3D%3D?uid=0&filename=2021-10-16_13-50-59.png&disposition=inline&hash=&limit=0&content_type=image%2Fpng&owner_uid=0&tknv=v2&size=1920x947 "Git log")
+
+---
+Screenshot git log from IDEA
+
+![img.png](https://downloader.disk.yandex.ru/preview/b0a8b7e028f128d77443ef150ce217b845283a35fcc69f47d8517d0ec88e79ff/616aeb4d/4rPQXtpKeYxfTIi8kacD3y6k_Eb-e6V24vNmeJezr09djxhCt_f2AALhtrYFoMQVFD4XHN-b3KilFPLzt8AlyQ%3D%3D?uid=0&filename=2021-10-16_14-05-15.png&disposition=inline&hash=&limit=0&content_type=image%2Fpng&owner_uid=0&tknv=v2&size=1920x947)
 
 
