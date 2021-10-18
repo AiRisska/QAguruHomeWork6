@@ -28,8 +28,10 @@
 https://yadi.sk/i/xFjEb2l9e9Sgpg
 
 ---
+
 Screenshot git log from IDEA
 https://yadi.sk/i/IZKAk27MtbV_Cw
+
 ---
  
 
